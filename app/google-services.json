@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "83904173291",
+    "firebase_url": "https://healthhelp-31bbd-default-rtdb.firebaseio.com",
+    "project_id": "healthhelp-31bbd",
+    "storage_bucket": "healthhelp-31bbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:83904173291:android:7ca18f3c019e2470dadaae",
+        "android_client_info": {
+          "package_name": "com.example.healthhelp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "83904173291-pdtn0nn3kv51n8gljofb43025lt9610v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthhelp",
+            "certificate_hash": "d27ae23a049fa9944c83fade1c5b6361019811e0"
+          }
+        },
+        {
+          "client_id": "83904173291-ud24ekutnk6heniiigu6onpcaavo9fb2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxF-qvMs7ilpR7tGkwdKsmiZEEQ8aoySA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "83904173291-ud24ekutnk6heniiigu6onpcaavo9fb2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
